@@ -3,25 +3,34 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Добро пожаловать на Мой Сайт. Наши услуги и информация о компании.">
+<meta name="keywords" content="мой сайт, услуги, компания, информация">
 <title>Genius Forge - API</title>
-<link rel="stylesheet" href="styles.css">
 <link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <header>
-  <a href="/"><img class="logo" src="logo.png" alt="Логотип Мой Сайт"></a>
-  <h1 style="margin: 0;">API нашего сайта</h1>
+    <a href="/"><img class="logo" src="logo.png" alt="Логотип Мой Сайт"></a>
+  <h1>API сайта</h1>
+  <nav>
+    <ul class="welcome-menu">
+      <li><a href="/">Главная</a></li>
+      <li><a href="api">API</a></li>
+      <li><a href="#contact">Информация</a></li>
+    </ul>
+  </nav>
 </header>
-<nav>
-  <ul>
-    <li><a href="/">Главная</a></li>
-    <li><a href="api">API</a></li>
-    <!-- Другие пункты меню -->
-  </ul>
-</nav>
 <div class="container">
-  <h2>API</h2>
-  <p>Наш сайт предоставляет dcddhcdjcdjhcd cdcjdhchdjcdjhcjdc dcdhcjdhcjhdc dcdhcdjhcj разнообразное API для взаимодействия с данными и функциональностью сайта. Вы можете использовать его для...</p>
+  <h2 id="about">API нашего сайта</h2>
+  <p>Мы предоставляем разнообразное API для взаимодействия с данными и функциональностью нашего сайта. Ниже приведены некоторые из ключевых возможностей нашего API:</p>
+  <ul>
+    <li>Получение информации о продуктах и услугах</li>
+    <li>Добавление новых данных на сайт через API</li>
+    <li>Обновление и удаление данных через API</li>
+    <!-- Другие возможности вашего API -->
+  </ul>
+  <p>Для получения подробной документации и инструкций по использованию API, пожалуйста, свяжитесь с нашей командой поддержки.</p>
 </div>
 </body>
 </html>
