@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Genius Forge - API</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <a href="/"><img class="logo" src="logo.png" alt="Логотип Мой Сайт"></a>
+  <h1 style="margin: 0;">API нашего сайта</h1>
+</header>
+<nav>
+  <ul>
+    <li><a href="/">Главная</a></li>
+    <li><a href="api">API</a></li>
+    <!-- Другие пункты меню -->
+  </ul>
+</nav>
+<div class="container">
+  <h2>API</h2>
+  <p>Наш сайт предоставляет разнообразное API для взаимодействия с данными и функциональностью сайта. Вы можете использовать его для...</p>
+</div>
+</body>
+</html>
