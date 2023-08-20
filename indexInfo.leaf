@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9628336674929150"
+     crossorigin="anonymous"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C3PYKCL6K4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C3PYKCL6K4');
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Улучшайте свою память с помощью наших увлекательных игр, разработанных специально для развития когнитивных навыков. Игры включают головоломки, логические задачи и ассоциативные игры, обогащая внимание и концентрацию.">
+<link rel="meta-tags" href="meta-tags.html">
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<title>Genius Forge - Main</title>
+<meta name="keywords" content="..."> <!-- Ваши ключевые слова -->
+<style>
+/* Стили для социальных ссылок */
+.social-links {
+    margin-top: 20px;
+    text-align: right; /* Добавлено для выравнивания справа */
+}
+
+.social-links a {
+    display: inline-block;
+    margin-right: 15px;
+    color: #333; /* Цвет текста */
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+    color: #007bff; /* Цвет при наведении */
+}
+</style>
+</head>
+<body>
+<header>
+    <a href="/"><img class="logo" src="logo.png" alt="Логотип Мой Сайт"></a>
+    <h1>Информация</h1>
+</header>
+<nav>
+    <ul class="welcome-menu">
+        <li><a href="/">Главная</a></li>
+        <li><a href="api">API</a></li>
+        <li><a href="#contact">Информация</a></li>
+    </ul>
+</nav>
+<div class="container">
+    <h2 id="about">Добро пожаловать на наш сайт!</h2>
+    <p>Здесь вы найдете множество интересной информации о нашей компании и предоставляемых нами услугах.</p>
+    <h2 id="services">Наши услуги</h2>
+    <p>Мы предлагаем широкий спектр услуг для наших клиентов...</p>
+    <h2 id="contact">Наши контакты</h2>
+    <p>Вы можете связаться с нами по следующим контактным данным...</p>
+    
+    <!-- Социальные сети -->
+    <div class="social-links">
+        <a href="https://www.facebook.com/yourpage" target="_blank">Facebook</a>
+        <a href="https://twitter.com/yourpage" target="_blank">Twitter</a>
+        <a href="https://www.instagram.com/yourpage" target="_blank">Instagram</a>
+    </div>
+</div>
+</body>
+</html>

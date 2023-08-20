@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9628336674929150"
+     crossorigin="anonymous"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C3PYKCL6K4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C3PYKCL6K4');
+</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -19,15 +30,14 @@
 <header>
     <a href="/"><img class="logo" src="logo.png" alt="Логотип Мой Сайт"></a>
   <h1>Главная</h1>
+</header>
   <nav>
     <ul class="welcome-menu">
       <li><a href="/">Главная</a></li>
       <li><a href="api">API</a></li>
-      <li><a href="#contact">Информация</a></li>
+      <li><a href="info">Информация</a></li>
     </ul>
   </nav>
-</header>
-
 <div class="container">
   <h2 id="about">Добро пожаловать на наш сайт!</h2>
   <p>Здесь вы найдете множество интересной информации о нашей компании и предоставляемых нами услугах.</p>
@@ -38,4 +48,3 @@
 </div>
 </body>
 </html>
-
