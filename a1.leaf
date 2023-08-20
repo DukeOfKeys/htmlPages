@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="articlesStyle.css">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <title>Genius Forge - Статья 1</title>
+</head>
+<body>
+  <header>
+    <a href="/"><img class="logo" src="logo.png" alt="Логотип Мой Сайт"></a>
+    <h1>Статья 1</h1>
+  </header>
+   <nav>
+    <ul class="welcome-menu">
+      <li><a href="/">Главная</a></li>
+      <li><a href="articles">Статьи</a></li>
+      <li><a href="api">API</a></li>
+      <li><a href="info">Информация</a></li>
+    </ul>
+  </nav>
+  <div class="content">
+    <div class="article-content">
+      <h2>Заголовок статьи 1</h2>
+      <p>Введение и описание содержания статьи 1...</p>
+      <p>Дополнительный текст статьи 1...</p>
+      <p>Еще дополнительный текст статьи 1...</p>
+    </div>
+  </div>
+</body>
+</html>
+

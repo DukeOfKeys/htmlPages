@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- ... (ваш остальной код) ... -->
+  <style>
+    /* ... (ваш стиль) ... */
+    body {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      margin: 0;
+      padding: 0;
+    }
+
+    .content {
+      flex: 1;
+    }
+
+    .copyright {
+      text-align: center;
+      padding: 10px;
+      background-color: #333;
+      color: white;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <!-- ... (ваш заголовок) ... -->
+  </header>
+  <nav>
+    <!-- ... (ваше меню) ... -->
+  </nav>
+  <div class="content">
+    <div class="container">
+      <!-- ... (ваш контент) ... -->
+    </div>
+  </div>
+  
+  <div class="copyright">
+    <p>Copyright © 2023 BBC. The BBC is not responsible for the content of external sites.</p>
+  </div>
+</body>
+</html>
+

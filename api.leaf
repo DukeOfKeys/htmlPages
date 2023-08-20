@@ -28,6 +28,7 @@
   <nav>
     <ul class="welcome-menu">
       <li><a href="/">Главная</a></li>
+      <li><a href="articles">Статьи</a></li>
       <li><a href="api">API</a></li>
       <li><a href="info">Информация</a></li>
     </ul>

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Улучшайте свою память с помощью наших увлекательных игр, разработанных специально для развития когнитивных навыков. Игры включают головоломки, логические задачи и ассоциативные игры, обогащая внимание и концентрацию.">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <title>Genius Forge - Статьи</title>
+  <style>
+    .article {
+      margin-bottom: 30px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid #ccc;
+    }
+
+    .article h2 {
+      margin-top: 0;
+    }
+
+    .article p {
+      margin: 10px 0;
+    }
+
+    .read-more {
+      display: inline-block;
+      background-color: #333;
+      color: white;
+      padding: 5px 10px;
+      border-radius: 3px;
+      text-decoration: none;
+    }
+
+    .read-more:hover {
+      background-color: #444;
+    }
+  </style>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <a href="/"><img class="logo" src="logo.png" alt="Логотип Мой Сайт"></a>
+    <h1>Статьи</h1>
+  </header>
+  <nav>
+    <ul class="welcome-menu">
+        <li><a href="/">Главная</a></li>
+        <li><a href="articles">Статьи</a></li>
+        <li><a href="api">API</a></li>
+        <li><a href="info">Информация</a></li>
+    </ul>
+</nav>
+  <div class="container">
+    <div class="article">
+      <h2>Заголовок статьи 1</h2>
+      <p>Введение и описание содержания статьи 1...</p>
+      <a class="read-more" href="a1">Читать далее</a>
+    </div>
+
+    <div class="article">
+      <h2>Заголовок статьи 2</h2>
+      <p>Введение и описание содержания статьи 2...</p>
+      <a class="read-more" href="article-2.html">Читать далее</a>
+    </div>
+
+    <div class="article">
+      <h2>Заголовок статьи 3</h2>
+      <p>Введение и описание содержания статьи 3...</p>
+      <a class="read-more" href="article-3.html">Читать далее</a>
+    </div>
+  </div>
+</body>
+</html>
